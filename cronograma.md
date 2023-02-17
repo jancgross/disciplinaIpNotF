@@ -35,7 +35,7 @@
 Local: S-403  
 Dia da semana: segundas (9:30\~11:10) e quartas (7:30\~11:10)  
 
-<!-- [x] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->
+<!-- [ ] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->
 ## [Unidade1](Unidade1 "Unidade1")  
 
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
@@ -54,7 +54,7 @@ Fontes: [src](./Unidade1/src "src")
 - visão geral dos fundamentos da programação de computadores;  
 - conversa individual com os alunos (depois nos exercícios).  
 - **liberar material** da próxima unidade (1 e 2).  
-<!-- [x] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->
+<!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->
 
 ### [Aula_03](Unidade1/aula.md#Aula_03 "07-03-2022 segunda-feira") 07-03-2022 segunda-feira
 
@@ -84,7 +84,7 @@ Fontes: [src](Unidade2/src "src")
 
 - método de resolução de algoritmos.  
 - **liberar material** da próxima unidade (3).  
-<!-- [x] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->
+<!-- [ ] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->
 
 ### [Aula_06](Unidade2/aula.md#Aula_06 "14-03-2022 segunda-feira") 14-03-2022 segunda-feira
 
@@ -111,13 +111,13 @@ Fontes: [src](./Unidade3/src "src")
 - algoritmos do URI (apresentar o URI, tem de ser **exato** …);  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 
-<!-- [x] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->
+<!-- [ ] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->
 ### [Aula_09](Unidade3/aula.md#Aula_09 "21-03-2022 segunda-feira") 21-03-2022 segunda-feira
 
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 
-<!-- [x] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->
+<!-- [ ] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->
 ### [Aula_10](Unidade3/aula.md#Aula_10 "23-03-2022 quarta-feira") 23-03-2022 quarta-feira
 
 - demonstração de exemplos: Java e VSCode;  
@@ -127,9 +127,9 @@ Fontes: [src](./Unidade3/src "src")
 
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
-<!-- [x] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->
+<!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->
 - **liberar material** da próxima unidade (4).  
-<!-- [x] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->
+<!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->
 
 ### [Aula_12](Unidade3/aula.md#Aula_12 "28-03-2022 segunda-feira") 28-03-2022 segunda-feira
 
@@ -213,7 +213,7 @@ Fontes: [src](./Unidade4/src "src")
 ### [Aula_22](Unidade4/aula.md#Aula_22 "20-04-2022 quarta-feira") 20-04-2022 quarta-feira
 
 - Revisão Prova1  
-<!-- [x] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-80606270> -->
+<!-- [ ] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-80606270> -->
 
 ### [Aula_23](Unidade4/aula.md#Aula_23 "20-04-2022 quarta-feira") 20-04-2022 quarta-feira
 
@@ -221,12 +221,12 @@ Fontes: [src](./Unidade4/src "src")
 <!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->
 <!-- - Prova 1 - parta B: [entrega](<@@@@> "entrega") no URI -->
 - **liberar material** da próxima unidade (5).  
-<!-- [x] Aviso: Unidades 5 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59665031> -->
+<!-- [ ] Aviso: Unidades 5 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59665031> -->
 
 ### [Aula_24](Unidade4/aula.md#Aula_24 "25-04-2022 segunda-feira") 25-04-2022 segunda-feira
 
 - Correção Prova1  
-<!-- [x] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->
+<!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->
 
 ### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 26-04-2022 terça-feira
 
@@ -251,7 +251,7 @@ Fontes: [src](./Unidade5/src "src")
 - comandos de controle de fluxo: repetição;  
   - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").  
-<!-- [x] Aviso: conversa com os alunos <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55423467> -->
+<!-- [ ] Aviso: conversa com os alunos <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55423467> -->
 - conversa com os alunos (individualmente).  
 
 ### [Aula_27](Unidade5/aula.md#Aula_27 "02-05-2022 segunda-feira") 02-05-2022 segunda-feira
@@ -299,7 +299,7 @@ Fontes: [src](./Unidade5/src "src")
   - Grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 
-<!-- [x] Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->
+<!-- [ ] Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->
 ### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo: 17-05-2022 terça-feira
 
 - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri")  
@@ -396,7 +396,7 @@ Fontes: [src](./Unidade6/src "src")
 - Prova2  
 <!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->
 <!-- - Prova 2 - parta B: [entrega](<@@@@> "entrega") no URI -->
-<!-- [x] Aviso: Trabalho Final: enunciado <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83236523> -->
+<!-- [ ] Aviso: Trabalho Final: enunciado <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83236523> -->
 
 ### [Aula_48](Unidade6/aula.md#Aula_48 "20-06-2022 segunda-feira") 20-06-2022 segunda-feira
 
