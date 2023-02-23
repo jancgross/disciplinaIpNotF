@@ -8,7 +8,7 @@
 
 Mensagem "do dia", do programador ...  
     Programadores .. analisem o problema antes.  Não saiam “chutando” tudo.  
-![programador](imgs/programador.mov "programador")  
+[programador](imgs/programador.mov "programador")  
 
 ## Rabiscos
 
