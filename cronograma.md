@@ -50,7 +50,7 @@ Fontes: [src](Unidade1/src "src")
 - conversa individual com os alunos (depois nos exercícios);  
 - horário do monitor.  
 --  
-- **liberar material** da unidade (1).  
+- **liberar material** das unidades 1 e 2.  
 <!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
 - visão geral dos fundamentos da programação de computadores.  
   
