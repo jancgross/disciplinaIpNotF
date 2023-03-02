@@ -54,7 +54,7 @@ Fontes: [src](Unidade1/src "src")
 <!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
 - visão geral dos fundamentos da programação de computadores.  
   
-### [Aula_02](Unidade1/aula.md#Aula_02 " 02-03-2023 quinta-feira ") 02-03-2023 quinta-feira
+### [Aula_02](Unidade1/aula.md#Aula_02 " 27-02-2023 segunda-feira ") 27-02-2023 segunda-feira
   
 - visão geral dos fundamentos da programação de computadores;  
 - demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível).  
@@ -84,7 +84,7 @@ Fontes: [src](Unidade2/src "src")
 - construção de algoritmos;  
 - usando Java e VSCode (workspace/project/class).  
   
-### [Aula_05](Unidade2/aula.md#Aula_05 " 09-03-2023 quinta-feira ") 09-03-2023 quinta-feira
+### [Aula_05](Unidade2/aula.md#Aula_05 " 06-03-2023 segunda-feira ") 06-03-2023 segunda-feira
   
 - método de resolução de algoritmos;  
 - **liberar material** da próxima unidade (3).  
@@ -110,7 +110,7 @@ Fontes: [src](Unidade3/src "src")
   
 - demonstração de exemplos: Java e VSCode.  
   
-### [Aula_08](Unidade3/aula.md#Aula_08 " 16-03-2023 quinta-feira ") 16-03-2023 quinta-feira
+### [Aula_08](Unidade3/aula.md#Aula_08 " 13-03-2023 segunda-feira ") 13-03-2023 segunda-feira
   
 - algoritmos do URI (apresentar o URI, tem de ser **exato** …);  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
@@ -127,7 +127,7 @@ Fontes: [src](Unidade3/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
   
-### [Aula_11](Unidade3/aula.md#Aula_11 " 23-03-2023 quinta-feira ") 23-03-2023 quinta-feira
+### [Aula_11](Unidade3/aula.md#Aula_11 " 20-03-2023 segunda-feira ") 20-03-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
@@ -162,7 +162,7 @@ Fontes: [src](Unidade4/src "src")
   - grupo SE (if): demonstração de exemplos: Java e VSCode;  
   - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf").  
   
-### [Aula_14](Unidade4/aula.md#Aula_14 " 30-03-2023 quinta-feira ") 30-03-2023 quinta-feira
+### [Aula_14](Unidade4/aula.md#Aula_14 " 27-03-2023 segunda-feira ") 27-03-2023 segunda-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo SE - SENÃO (if - else): demonstração de exemplos: Java e VSCode;  
@@ -180,7 +180,7 @@ Fontes: [src](Unidade4/src "src")
   - grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
   - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto").  
   
-### [Aula_17](Unidade4/aula.md#Aula_17 " 06-04-2023 quinta-feira ") 06-04-2023 quinta-feira
+### [Aula_17](Unidade4/aula.md#Aula_17 " 03-04-2023 segunda-feira ") 03-04-2023 segunda-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo ESCOLHA (switch): demonstração de exemplos: Java e VSCode;  
@@ -196,7 +196,7 @@ Fontes: [src](Unidade4/src "src")
   
 - listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
   
-### [Aula_20](Unidade4/aula.md#Aula_20 " 13-04-2023 quinta-feira ") 13-04-2023 quinta-feira
+### [Aula_20](Unidade4/aula.md#Aula_20 " 10-04-2023 segunda-feira ") 10-04-2023 segunda-feira
   
 - listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
   
@@ -219,7 +219,7 @@ Fontes: [src](Unidade4/src "src")
 - revisão Prova1  
 <!-- [ ] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-80606270> -->  
   
-### [Aula_23](Unidade4/aula.md#Aula_23 " 20-04-2023 quinta-feira ") 20-04-2023 quinta-feira
+### [Aula_23](Unidade4/aula.md#Aula_23 " 17-04-2023 segunda-feira ") 17-04-2023 segunda-feira
   
 - Prova1  
 <!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
@@ -248,7 +248,7 @@ Fontes: [src](Unidade4/src "src")
 Ementa - comandos de controle de fluxo (Repetição): enquanto (`while`), para (`for`) e faça enquanto (`do - while`).  
 Fontes: [src](Unidade5/src "src")  
   
-### [Aula_26](Unidade5/aula.md#Aula_26 " 27-04-2023 quinta-feira ") 27-04-2023 quinta-feira
+### [Aula_26](Unidade5/aula.md#Aula_26 " 24-04-2023 segunda-feira ") 24-04-2023 segunda-feira
   
 - comandos de controle de fluxo: repetição;  
   - grupo PARA (for): demonstração de exemplos: Java e VSCode;  
@@ -266,7 +266,7 @@ Fontes: [src](Unidade5/src "src")
   
 [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
   
-### [Aula_29](Unidade5/aula.md#Aula_29 " 04-05-2023 quinta-feira ") 04-05-2023 quinta-feira
+### [Aula_29](Unidade5/aula.md#Aula_29 " 01-05-2023 segunda-feira ") 01-05-2023 segunda-feira
   
 [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
   
@@ -282,7 +282,7 @@ Fontes: [src](Unidade5/src "src")
   - grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
   - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
   
-### [Aula_32](Unidade5/aula.md#Aula_32 " 11-05-2023 quinta-feira ") 11-05-2023 quinta-feira
+### [Aula_32](Unidade5/aula.md#Aula_32 " 08-05-2023 segunda-feira ") 08-05-2023 segunda-feira
   
 - comandos de controle de fluxo: repetição;  
   - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
@@ -322,7 +322,7 @@ Fontes: [src](Unidade6/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
   
-### [Aula_35](Unidade6/aula.md#Aula_35 " 18-05-2023 quinta-feira ") 18-05-2023 quinta-feira
+### [Aula_35](Unidade6/aula.md#Aula_35 " 15-05-2023 segunda-feira ") 15-05-2023 segunda-feira
   
 <!-- FIXME: melhorar a descrição do que é feito nos dias desta unidade -->  
 - demonstração de exemplos: Java e VSCode;  
@@ -338,7 +338,7 @@ Fontes: [src](Unidade6/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
   
-### [Aula_38](Unidade6/aula.md#Aula_38 " 25-05-2023 quinta-feira ") 25-05-2023 quinta-feira
+### [Aula_38](Unidade6/aula.md#Aula_38 " 22-05-2023 segunda-feira ") 22-05-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
@@ -353,7 +353,7 @@ Fontes: [src](Unidade6/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
   
-### [Aula_41](Unidade7/aula.md#Aula_41 " 01-06-2023 quinta-feira ") 01-06-2023 quinta-feira
+### [Aula_41](Unidade7/aula.md#Aula_41 " 29-05-2023 segunda-feira ") 29-05-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
@@ -373,7 +373,7 @@ Fontes: [src](Unidade6/src "src")
 - revisão Prova2  
 <!-- [ ] Aviso: Prova2: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-83175633> -->  
   
-### [Aula_44](Unidade6/aula.md#Aula_44 " 08-06-2023 quinta-feira ") 08-06-2023 quinta-feira
+### [Aula_44](Unidade6/aula.md#Aula_44 " 05-06-2023 segunda-feira ") 05-06-2023 segunda-feira
   
 - Prova2  
 <!-- - Prova 2 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->  
@@ -395,7 +395,7 @@ Fontes: [src](Unidade6/src "src")
   
 Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, mas com um enfoque maior na utilização de Matrizes.  
   
-### [Aula_47](TrabalhoFinal/aula.md#Aula_47 " 15-06-2023 quinta-feira ") 15-06-2023 quinta-feira
+### [Aula_47](TrabalhoFinal/aula.md#Aula_47 " 12-06-2023 segunda-feira ") 12-06-2023 segunda-feira
   
 <!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->  
 - enunciado do [TrabalhoFinal](TrabalhoFinal “TrabalhoFinal”)  
@@ -409,7 +409,7 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
   
 - desenvolvimento do trabalho final.  
   
-### [Aula_50](TrabalhoFinal/aula.md#Aula_50 " 22-06-2023 quinta-feira ") 22-06-2023 quinta-feira
+### [Aula_50](TrabalhoFinal/aula.md#Aula_50 " 19-06-2023 segunda-feira ") 19-06-2023 segunda-feira
   
 - desenvolvimento do trabalho final.  
   
@@ -425,7 +425,7 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
 <!-- [ ] Aviso: Trabalho Final: entrevista <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-64075452> -->  
 - apresentação Trabalho Final.  
   
-### [Aula_53](TrabalhoFinal/aula.md#Aula_53 " 29-06-2023 quinta-feira ") 29-06-2023 quinta-feira
+### [Aula_53](TrabalhoFinal/aula.md#Aula_53 " 26-06-2023 segunda-feira ") 26-06-2023 segunda-feira
   
 - apresentação Trabalho Final.  
   
