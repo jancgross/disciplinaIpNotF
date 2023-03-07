@@ -10,7 +10,7 @@ public class ClasseA {
   }
 
   public void imprimir() {
-    System.out.println("ClasseA.impriir: " + teste);
+    System.out.println("ClasseA.imprimir: " + teste);
   }
 
   public static void main(String[] args) {

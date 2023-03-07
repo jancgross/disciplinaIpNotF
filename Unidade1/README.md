@@ -54,9 +54,9 @@ Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")
   - **implantação**: consiste em colocar o software em funcionamento para o seu usuário ou grupo de usuários;  
   - **manutenção**: consiste em operações de atualização ou correção do software.​  
 
-#### Imagem do Clico de Vida de um Software
+#### Imagem do Ciclo de Vida de um Software
 
-![Imagem do Clico de Vida de um Software](imgs/CicloVida.png "Imagem do Clico de Vida de um Software")  
+![Imagem do Ciclo de Vida de um Software](imgs/CicloVida.png "Imagem do Ciclo de Vida de um Software")  
 
 ### Métodos de Especificação de Problemas
 
