@@ -36,7 +36,7 @@ Calcule a área da circunferência elevando o valor de raio ao quadrado e multip
 
 ## Uni2Exe04 [1][1005]  
 
-Leia dois valores de ponto flutuante e calcule a média ponderada sabendo que a note A tem peso 3.5 e nota B 7.5 (a soma dos pesos é 11), sendo que a nota vai de 0.0 a 10.0.  
+Leia dois valores de ponto flutuante e calcule a média ponderada sabendo que a nota A tem peso 3.5 e nota B 7.5 (a soma dos pesos é 11), sendo que a nota vai de 0.0 a 10.0.  
 
 ## Uni2Exe05 [1][1007]  
 
