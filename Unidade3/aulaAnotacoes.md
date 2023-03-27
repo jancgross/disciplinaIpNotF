@@ -14,12 +14,12 @@ Mensagem "do dia", a importância de boas práticas de programação ...
 
 ## Rabiscos
 
-![Rabiscos](rabiscos.drawio.svg)
+![Rabiscos](aulaRabiscos.drawio.svg)
 
 ## Introdução à Programação - Unidade 3
 
 - Boas práticas de programação -> legibilidade do código  
-  - [Indentação de código](<https://pt.wikipedia.org/wiki/Indentação> "Indentação de código");  
+  - [Indentação de código](https://pt.wikipedia.org/wiki/Indentação "Indentação de código");  
   - VSCode Formatar Documento (menu de contexto no código ou teclas ⇧⌥F macOs/Linux e teclas SHIFT+CRTL+F).  
 - [ ] Criar um novo projeto no VSCode para representar a Unidade 3 com o nome "Unidade3". Assim, lembrar como criar projeto e classe.  
 - [ ] Resgatar conteúdo da Unidade 3 e mostrar o que é classe e o que é o método main de forma superficial. Lembrar que todo o código vai dentro do método main!  
@@ -96,7 +96,7 @@ Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)
 
 - [ ] Classe **Math**  **não** precisam importar ela (pacote base java.lang).  
 - [ ] Mostrar a documentação do OpenJDK os métodos da classe Math (<https://devdocs.io/openjdk~17/java.base/java/lang/math>) e, se der tempo, de outras classes como Scanner para acostuma-los a utilizar a documentação.  
-- [ ] Classe [Scanner](<https://devdocs.io/openjdk~17/java.base/java/util/scanner> "Scanner).  
+- [ ] Classe [Scanner](<https://devdocs.io/openjdk~17/java.base/java/util/scanner> "Scanner").  
 
 ##### Uni3Uri1019
 

@@ -48,8 +48,7 @@ Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello W
 
 - No VSCode no menu "View / Command Palette …" digite/selecione "Java:  Create Java Project …".
   
-  ![View / Command Palette](../imgs/VSCodeViewProjetoJava.png "View / Command
-  Palette")
+  ![View / Command Palette](../imgs/VSCodeViewProjetoJava.png "View / Command Palette")
 
 - Selecione "No build tools" … espere um pouco … e quando aparecer a janela escolha um "local" para salvar o seu projeto. Após selecionar o "local" entre com um nome para seu projeto, e pressione "enter" para confirmar. O seu projeto deve ter sido criado, e aparecer algo deste tipo:  
 ![Exemplo de projeto](../imgs/VSCodeExemploProjeto.png "Exemplo de projeto")  

@@ -1,8 +1,8 @@
 # Introdução à Programação - Unidade 3  
 
-Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")  
+Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaAnotacoes.md")
 
-## Introdução a Linguagem de Programação  
+## Introdução a Linguagem de Programação - Parte 1  
 
 ### [Videoaula_3_1 (27:27)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EexdwuO8TYFOjqLwiIFsk-IB3gntjsEbsw8nT4hj2_MXRA?e=3QpaaU> "link alternativo da primeira videoaula da unidade 3")  
 
@@ -92,7 +92,7 @@ public class Principal {
 }
 ```
 
-#### Palavras Reservadas e Identificadores em Java​  
+#### Palavras Reservadas e Identificadores em Java​ - Parte 1  
 
 - **Palavras Reservadas** são todos os nomes pré-existentes na linguagem que tem algum significado.  
   - Exemplos de palavras reservadas: public, class, int, double, etc.​  
@@ -123,7 +123,7 @@ public class Principal {
   final double tamanho = 50;
   ```
 
-#### Palavras Reservadas e Identificadores em Java​  
+#### Palavras Reservadas e Identificadores em Java​ - Parte 2  
 
 - É possível definir um **Grupo de Variáveis** em uma mesma linha, usando o mesmo qualificador e tipo, separando-os por vírgula (,)​.  
 - A definição de uma variável, ou grupo de variáveis, sempre é finalizada com o símbolo **Ponto-E-Vírgula** (;). Isto ocorre com a maioria dos programas em Java.​  
@@ -152,14 +152,14 @@ public class Principal {
 
 ![Lógico](imgs/TipoLogico.png "Lógico")  
 
-### Exercícios  
+### Exercícios - Parte 1  
 
 - Responda o quiz no AVA3​.  
 - Acompanhe os exercício em sala​.  
 
 ----------
 
-## Introdução a Linguagem de Programação  
+## Introdução a Linguagem de Programação - Parte 2  
 
 ### [Videoaula_3_2 (29:18)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/ERMgPFCa4U1Gv3qfgMUkXTQBOoGeRqWi9zpSga2SxyM0Ag?e=E5gofQ> "link alternativo da segunda videoaula da unidade 3")  
 
@@ -207,7 +207,7 @@ public class Principal {
 
 - A classe Scanner pertence ao pacote java.util.Scanner e, portanto, deve ser importada.​  
 ​
-#### Saída  
+#### Saída
 
 - Para a escrita de dados em vídeo utiliza-se diretamente a classe **System**;  
 - Para usar a classe System **não** é necessário a criação de um objeto;  
@@ -222,7 +222,7 @@ Nos métodos print pode ser feita a concatenação de textos e conteúdos de var
 - calcular a área de um sala retangular  
 - Algoritmo  
 
-      inicio​    
+      inicio​  
         ler a largura e o comprimento​
         calcular a área​
         escrever a área​
@@ -372,7 +372,7 @@ Nos métodos print pode ser feita a concatenação de textos e conteúdos de var
   - VSCode  
   - etc.​  
 
-### Exercícios  
+### Exercícios - Parte 2  
 
 - Responda o quiz no AVA3​.  
 - Acompanhe os exercício em sala​.  

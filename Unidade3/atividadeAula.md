@@ -63,6 +63,9 @@ Descreva um programa que calcule o volume de uma lata de óleo. Fórmula:
 
   ![\normalsize&space;volume\:=\:\Pi\:*\:raio^2\:*\:altura](https://latex.codecogs.com/svg.latex?\normalsize&space;volume=\Pi*raio^2*altura)  
 
+Quantas casas decimais devo usar para o número Pi?  
+Veja [Quora curiosidade](<https://pt.quora.com/Qual-o-fato-cient%C3%ADfico-incr%C3%ADvel-que-voc%C3%AA-conhece/answer/Ericles-Lima?ch=17&oid=1477743646776076&share=22307f3d&srid=Es9Sd&target_type=answer>)  
+
 ----------
 
 ## Uni3Exe10.java

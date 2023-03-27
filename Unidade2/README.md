@@ -1,6 +1,6 @@
 # Introdução à Programação - Unidade 2
 
-Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")  
+Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaAnotacoes.md")
 
 ## Construção de Algoritmos - parte 1
 
@@ -40,7 +40,7 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
   - Alfanumérico: contém caracteres ou sequências de caracteres alfanuméricos​ (ex.: Letra = ‘A’, Símbolo = ‘@’ ou Texto = "Teste de Texto");  
   - Lógico: contém verdadeiro ou falso​ (ex.: Sucesso = verdadeiro ou Triste = falso).  
 
-#### Exemplos - parte 1
+#### Exemplos
 
 - Problema 1: considerando que um professor tem 3 notas de um aluno, calcule a média do aluno.​  
 
@@ -62,7 +62,7 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
 
 | Tipo       | Descrição                                     |  
 | ---------- | --------------------------------------------- |  
-| Atribuição | Existem informações em um programa que precisam ser armazenadas em **variáveis**. Nestes casos, utiliza-se uma expressão de atribuição.​<br> A atribuição é representada por um flecha para a esquerda ( <- ) ou pelo sinal de igual ( = ) |  
+| Atribuição | Existem informações em um programa que precisam ser armazenadas em **variáveis**. Nestes casos, utiliza-se uma expressão de atribuição.​ A atribuição é representada por um flecha para a esquerda ( <- ) ou pelo sinal de igual ( = ) |  
 | Entrada e Saída | Os programas normalmente recebem e informam dados executando operações denominadas de entrada (comando “ler”) e saída (comando “escrever”).  
 
 ### Exercícios
@@ -80,7 +80,7 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
 
 | Tipo       | Descrição                                     |  
 | ---------- | --------------------------------------------- |  
-| Estruturas de Controle de Seleção e Repetição | Em um programa podem existir comandos executados apenas em determinadas situações. Nestes casos utilizam-se as estruturas de seleção.<br> Em outras situações, um comando precisa ser executado repetidas vezes. Nestes casos, utilizam-se as estruturas de repetição.​ |  
+| Estruturas de Controle de Seleção e Repetição | Em um programa podem existir comandos executados apenas em determinadas situações. Nestes casos utilizam-se as estruturas de seleção. Em outras situações, um comando precisa ser executado repetidas vezes. Nestes casos, utilizam-se as estruturas de repetição.​ |  
 | Chamadas de Sub-rotinas | Muitas vezes em um programa, a solução de um **algoritmo**, requer a execução de outros **algoritmos**. |  
 | Tratamentos de Erros| Muitas situações na programação de computadores requerem cuidado pois podem gerar diversos tipos de erros. Nas linguagens mais modernas, existem estruturas específicas para o tratamento destes erros. |  
 
@@ -93,7 +93,7 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
 
         atribuir o valor 5 à variável A​​
         A ← 5​
-        
+
   - Exemplo 2
 
         atribuir o valor de A somado de 2 unidades à variável B
@@ -125,11 +125,11 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
 - Com este comando o algoritmo aguarda que o usuário insira um valor que será **armazenado na memória do computador**.  
 - Este comando exige que seja colocado o **nome da variável** onde a informação digitada será armazenada.​  
 
-##### Sintaxe
+##### Sintaxe - parte 1
 
         ler (variável)
 
-##### Exemplos - parte 2
+##### Exemplos - parte 1
 
 - aguarda que seja digitado um valor a ser armazenado na variável A
 
@@ -145,11 +145,11 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
 - Com este comando o algoritmo mostra o resultado de uma expressão definida pelo usuário.  
 - A expressão a ser escrita pode ser o nome de uma **variável**, um **texto** ou uma **expressão matemática**, ou até mesmo uma combinação entre estas separadas por vírgulas.​  
 
-##### Sintaxe
+##### Sintaxe - parte 2
 
         escrever (expressão)
 
-##### Exemplos
+##### Exemplos - parte 2
 
 - escreve o valor da variável X​
 

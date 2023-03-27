@@ -3,8 +3,8 @@
 ### [Aula_02](Unidade1/aula.md#Aula_02 "	23-02-2022	quarta		23-02-2022	quarta
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	23-02-2022	quarta	")	23-02-2022	quarta
 -->
-[PlanoEnsinoAVA]: <> "PlanoEnsinoAVA"  
-[ApresentacaoProfessor]: <> "Apresentação do Professor"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=34278&section=1> "PlanoEnsinoAVA"  
+[ApresentacaoProfessor]: <https://dalton-reis.github.io/dalton-reis/> "Apresentação do Professor"  
 
 # Algumas anotações das aulas
 
@@ -13,19 +13,13 @@ Mensagem "do dia", do programador ...
     Se inscreva e assista os PodCasts <https://linktr.ee/vishubfurb>  
     ![Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
 
-## Rabiscos
-
-![Rabiscos](rabiscos.drawio.svg)
-
-Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para quem quiser o Draw.io pode ser instalado no Windows/MacOS/Linux, ou mesmo usando direto no navegador em: [https://app.diagrams.net/](https://app.diagrams.net/ "https://app.diagrams.net/"). Ou ainda usando uma versão com um layout de writeboard [https://sketch.diagrams.net/](https://sketch.diagrams.net/ "https://sketch.diagrams.net/").  
-
 ## Introdução à Programação - Unidade 1
 
 ## Aula: 01 e 02
 
 - Avisos: os avisos serão feitos todos pelo Teams
 
-## [Materiais FURB](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/furb.md> "Materiais FURB")  
+## [Materiais FURB](https://github.com/dalton-reis/dalton-reis/blob/main/_._/furb.md "Materiais FURB")  
 
 ## [ApresentacaoProfessor]
 

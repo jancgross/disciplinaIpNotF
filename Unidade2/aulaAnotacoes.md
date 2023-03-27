@@ -12,7 +12,7 @@ Mensagem "do dia", do programador ...
 
 ## Rabiscos
 
-![Rabiscos](rabiscos.drawio.svg)
+![Rabiscos](aulaRabiscos.drawio.svg)
 
 ## ![aulaAnotacoesOrganizacao](organizacaoEscopo.drawio.svg)  
 
