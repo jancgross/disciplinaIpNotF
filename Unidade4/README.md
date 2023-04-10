@@ -12,7 +12,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 - Tipos de Comandos:​
   - de **seleção**: executam instruções de acordo com uma determinada condição​;
   - de **repetição**: executam instruções em um número repetido de vezes. Também são chamadas de “laços”​;
-  - de **chama de sub-rotina**: executam a chamada de sub-rotinas com propriedades específicas.
+  - de **chamada de sub-rotina**: executam a chamada de sub-rotinas com propriedades específicas.
 
 #### Comandos de Controle de Fluxo​: Seleção
 
