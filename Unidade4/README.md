@@ -276,7 +276,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
       escolha sexo
         'F' : contF = contF + 1
-        'M' : contM = contF + 1
+        'M' : contM = contM + 1
         senão​
           contI = contI + 1​
 
