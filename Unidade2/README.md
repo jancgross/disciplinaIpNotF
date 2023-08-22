@@ -111,7 +111,7 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
 | +, - | operadores unários: são aplicados a um único operando. São os operadores aritméticos de maior precedência. Exemplos: -3, +x |  
 | +, -, *, / | operadores aritméticos: são aplicados para adição, subtração, multiplicação e divisão respectivamente. Por convenção, * e / têm precedência sobre + e -. Para modificar a ordem de avaliação das operações, é necessário usar parênteses como em qualquer expressão aritmética |  
 | % | operador de resto: é aplicado para o resto da divisão de números inteiros. Por exemplo, 10 % 3 = 1. Tem a mesma precedência do operador de divisão tradicional. Estes operadores podem variar de acordo com a notação utilizada pela pseudolinguagem |  
-| + | operador de caracteres: operador de concatenação de cadeias de caracteres, quando usado com dois valores (variáveis ou constantes) do tipo "caractere". Por exemplo: "Rio " + " de Janeiro" = "Rio de Janeiro" |  
+| + | operador de caracteres: operador de concatenação de cadeias de caracteres, quando usado com dois valores (variáveis ou constantes) do tipo "caractere". Por exemplo: "Rio" + " de Janeiro" = "Rio de Janeiro" |  
 
 ### Operações de Entrada e Saída
 
