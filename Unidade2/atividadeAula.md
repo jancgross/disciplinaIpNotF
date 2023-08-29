@@ -1,4 +1,4 @@
-# Unidade 2: Introdução - Lista de Exercícios - atividadeAula
+# Introdução - Lista de Exercícios - Algoritmos
 
 Utilizando a lista de exercícios abaixo procure entender o enunciado do problema e completar o formulário [2_MetodoAlgoritmos_formulario.docx](2_MetodoAlgoritmos_formulario.docx "2_MetodoAlgoritmos_formulario.docx").  
 
